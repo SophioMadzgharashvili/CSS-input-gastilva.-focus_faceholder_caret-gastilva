@@ -1,0 +1,61 @@
+.mail {
+    width: 315px;
+    height: 45px;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: #E0E0E0;
+    margin: 9px;
+}
+
+
+.mail::placeholder {
+    color: #9E9E9E;
+    font-weight: 500;
+}
+
+
+.password {
+    width: 467px;
+    height: 45px;
+    border: 1px solid #FF0000;
+    border-radius: 15px;
+    margin: 9px;
+    background-color: #610000;
+}
+
+
+.password::placeholder {
+    color: #F07272;
+    font-weight: 500;
+}
+
+
+.number {
+    width: 541px;
+    height: 45px;
+    border: 1px solid #A8AB00;
+    border-radius: 5px;
+    margin: 9px;
+}
+
+
+.number::placeholder {
+    color: #A8AB00;
+    font-weight: 500;
+}
+
+
+.text {
+    width: 315px;
+    height: 45px;
+    border: 2px solid #F9FE03;
+    border-radius: 30px;
+    margin: 9px;
+    background-color: #292828;
+}
+
+
+.text::placeholder {
+    color: #F9FE03;
+    font-weight: 500;
+}
