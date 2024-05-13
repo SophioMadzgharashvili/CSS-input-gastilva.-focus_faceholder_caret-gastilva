@@ -58,4 +58,5 @@
 .text::placeholder {
     color: #F9FE03;
     font-weight: 500;
+    margin-left: 5px;
 }
